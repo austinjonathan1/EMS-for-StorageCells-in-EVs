@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Users\austi\OneDrive\Documents\SeniorProject\algotest\algotest\main.cpp(24,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\austi\OneDrive\Documents\SeniorProject\algotest\algotest\main.cpp(34,9): warning C4101: 'BO': unreferenced local variable
+C:\Users\austi\OneDrive\Documents\SeniorProject\algotest\algotest\main.cpp(283,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  algotest.vcxproj -> C:\Users\austi\OneDrive\Documents\SeniorProject\algotest\Debug\algotest.exe
